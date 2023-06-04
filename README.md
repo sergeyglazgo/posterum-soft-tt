@@ -1,1 +1,1 @@
-[DEMO LINK](https://sergeyglazgo.github.io/posterum-soft-tt/#/)
+[DEMO LINK](https://sergeyglazgo.github.io/posterum-soft-tt/)
